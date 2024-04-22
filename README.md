@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
-<h3 align="center">A passionate student from India. Machine Learning and AI excites me, learning about how their functions work under-the-hood is an amazing journey!</h3>
+<h3 align="center"> Machine Learning and AI excites me, learning about how their functions work under-the-hood has been an amazing journey!</h3>
 
 - 🔭 I’m currently working on **Gemini-Chatbot**
 
