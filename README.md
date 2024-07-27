@@ -25,7 +25,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=navyabijoy&theme=dark&hide_border=false)<br/>
 
-## GSSOC(24) Badges 🪶
-## ![image](https://github.com/navyabijoy/navyabijoy/assets/125277258/73a5969d-b2cf-4263-bfd7-d9de67545902) <br/>
   ![](https://komarev.com/ghpvc/?username=navyabijoy&color=blue)
   #### Show some ❤️ by starring some of the repositories!
