@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
 <h3 align="center"> Machine Learning and AI excites me, learning about how their functions work under-the-hood has been an amazing journey!</h3>
 
-- 🔭 I’m currently working on **Gemini-Chatbot**
+- 🔭 I’m currently working as a **SWE Fellow** at **Headstarter.AI**
 
 - 🌱 I’m currently learning **Tensorflow, Flask, Javascript and React**
 
-- 📝 I am planning to write articles on [https://medium.com/@navyabijoy2004](https://medium.com/@navyabijoy2004)
+- 📝 I write articles on [https://medium.com/@navyabijoy2004](https://medium.com/@navyabijoy2004)
 
 - 📫 How to reach me **navyabijoy14@gmail.com**
 
