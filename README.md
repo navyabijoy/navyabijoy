@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
 <!-- <h3 align="center"> Machine Learning and AI excites me, learning about how their functions work under-the-hood has been an amazing journey!</h3>
  -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyabijoy&theme=darkhub" alt="navyabijoy" /></a> </p>
  
 - 🔭 I’m currently working as a **SWE Fellow** at **Headstarter.AI**
 
