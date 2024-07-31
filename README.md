@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
 <!-- <h3 align="center"> Machine Learning and AI excites me, learning about how their functions work under-the-hood has been an amazing journey!</h3>
  -->
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyabijoy&theme=darkhub" alt="navyabijoy" /></a> </p>
- 
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyabijoy&theme=darkhub" alt="navyabijoy" /></a> </p>
+  -->
 - 🔭 I’m currently working as a **SWE Fellow** at **Headstarter.AI**
 
 - 🌱 I’m currently learning **Tensorflow, Flask, Javascript and React**
@@ -10,6 +10,19 @@
 - 📝 I write articles on [https://medium.com/@navyabijoy2004](https://medium.com/@navyabijoy2004)
 
 - 📫 How to reach me **navyabijoy14@gmail.com**
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> --></a> 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
