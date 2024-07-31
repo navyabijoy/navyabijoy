@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
-<!-- <h3 align="center"> Machine Learning and AI excites me, learning about how their functions work under-the-hood has been an amazing journey!</h3>
- -->
-<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyabijoy&theme=darkhub" alt="navyabijoy" /></a> </p>
-  -->
+
+
 - 🔭 I’m currently working as a **SWE Fellow** at **Headstarter.AI**
 
 - 🌱 I’m currently learning **Tensorflow, Flask, Javascript and React**
@@ -10,7 +8,10 @@
 - 📝 I write articles on [https://medium.com/@navyabijoy2004](https://medium.com/@navyabijoy2004)
 
 - 📫 How to reach me **navyabijoy14@gmail.com**
-
+<!-- <h3 align="center"> Machine Learning and AI excites me, learning about how their functions work under-the-hood has been an amazing journey!</h3>
+ -->
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navyabijoy&theme=darkhub" alt="navyabijoy" /></a> </p>
+  -->
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="130px" height="130px" />
