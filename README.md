@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
 
 
-- 🔭 I’m currently working as a **SWE Fellow** at **Headstarter.AI**
+<!-- - 🔭 I’m currently working as a **SWE Fellow** at **Headstarter.AI** -->
 
 - 📝 I sometimes write articles on [https://medium.com/@navyabijoy2004](https://medium.com/@navyabijoy2004)
 
