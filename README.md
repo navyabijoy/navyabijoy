@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Real Estate using MERN Stack](https://github.com/navyabijoy/mern-estate)
 
-- 🌱 I’m currently learning **DSA, MongoDB, Node.js, Express.js**
+- 🌱 I’m currently learning **MongoDB, Node.js, Express.js**
 
 - 📫 How to reach me **navyabijoy14@gmail.com**
 
