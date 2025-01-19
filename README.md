@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navyabijoy&label=Profile%20views&color=0e75b6&style=flat" alt="navyabijoy" /> </p>
 
-- 🔭 I’m currently working on [Real Estate using MERN Stack](https://github.com/navyabijoy/mern-estate)
+- 🔭 I’m currently working on [a C2C MERN Stack project](https://github.com/navyabijoy/mern-project)
 
 - 🌱 I’m currently learning **DSA, MongoDB, Node.js, Express.js**
 
