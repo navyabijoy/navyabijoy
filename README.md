@@ -12,14 +12,6 @@ I am a passionate software developer with a love for learning and building innov
 - 💬 Ask me about web development, Python, and AI
 - 📫 How to reach me: [navyabijoy14@gmail.com](mailto:navyabijoy14@gmail.com)
 
-## Skills
-
-- **Programming Languages:** Python, JavaScript, C++
-- **Web Development:** HTML, CSS, React, Node.js, Next.js
-- **AI/ML:** TensorFlow, Keras, PyTorch, Langchain
-- **Databases:** Firebase, MongoDB, Supabase
-- **Tools & Platforms:** Git, Postman
-
 ## 📊 GitHub Stats
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&theme=tokyonight)
@@ -29,14 +21,6 @@ I am a passionate software developer with a love for learning and building innov
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=navyabijoy&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Activity Graph
-
-[![Navya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navyabijoy&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyabijoy&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Connect with Me
 
