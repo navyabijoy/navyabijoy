@@ -1,3 +1,13 @@
+<h2 align="center">About Me</h2>
+<br/>
+<div>
+    <ul>
+        <li> I'm Navya Bijoy, a final year Computer Science Engineering student. 
+        <li> Currently working as an Associate Developer Intern @ Guidewire, open to new opportunities. 
+        <li> Portfolio: <a href="https://navyabijoy.tech">Click Here !</a>
+    </ul>
+</div>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
