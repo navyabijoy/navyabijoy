@@ -29,7 +29,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyabijoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navyabijoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=navyabijoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navyabijoy&show_icons=true&locale=en&layout=compact" alt="navyabijoy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&locale=en" alt="navyabijoy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navyabijoy&" alt="navyabijoy" /></p>
+
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=navyabijoy&label=Profile%20views&color=0e75b6&style=flat" alt="navyabijoy" /> </p>
+
