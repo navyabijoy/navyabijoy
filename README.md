@@ -29,11 +29,10 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navyabijoy&show_icons=true&locale=en&layout=compact" alt="navyabijoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&locale=en" alt="navyabijoy" /></p>
-<p><img src="https://d3frb2mbny706b.cloudfront.net/navyabijoy" width="600"></p>
-
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navyabijoy&show_icons=true&locale=en&layout=compact" alt="navyabijoy" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&locale=en" alt="navyabijoy" /></p>
+<p><img src="https://d3frb2mbny706b.cloudfront.net/navyabijoy" width="600"></p> -->
+<img src="https://d3frb2mbny706b.cloudfront.net/navyabijoy" width="600">
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navyabijoy&label=Profile%20views&color=0e75b6&style=flat" alt="navyabijoy" /> </p>
