@@ -2,8 +2,8 @@
 <br/>
 <div>
     <ul>
-        <li> I'm Navya Bijoy, a final year Computer Science Engineering student. 
-        <li> Currently working as an Associate Developer Intern @ Guidewire, open to new opportunities. 
+        <li> I'm Navya Bijoy, a  recent CS grad student. 
+        <!-- <li> Currently working as an Software Engineer @ Guidewire, open to new opportunities.  -->
         <li> Portfolio: <a href="https://navyabijoy.tech">Click Here !</a>
     </ul>
 </div>
