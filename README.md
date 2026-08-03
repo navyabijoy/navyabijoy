@@ -4,7 +4,7 @@
     <ul>
         <li> I'm Navya Bijoy, a  recent CS grad student. 
         <!-- <li> Currently working as an Software Engineer @ Guidewire, open to new opportunities.  -->
-        <li> Portfolio: <a href="https://navyabijoy.tech">Click Here !</a>
+        <li> Portfolio: <a href="https://navyabijoy.github.io/cv/">Click Here !</a>
     </ul>
 </div>
 
