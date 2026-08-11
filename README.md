@@ -1,39 +1,54 @@
-<h2 align="center">About Me</h2>
-<br/>
-<div>
-    <ul>
-        <li> I'm Navya Bijoy, a  recent CS grad student. 
-        <!-- <li> Currently working as an Software Engineer @ Guidewire, open to new opportunities.  -->
-        <li> Portfolio: <a href="https://navyabijoy.github.io/cv/">Click Here !</a>
-    </ul>
-</div>
+<!--
+Updated README by GitHub Copilot assistant. Improves structure, clarity, and adds project/contact sections.
+-->
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react"/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,aws,postman"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,prisma,postgresql,firebase,supabase,mongodb,git,github,vercel" />
-</div>
+<h1 align="center">Hi, I'm Navya 👋</h1>
 
-<br/>
-<hr/>
+<p align="center">A recent Computer Science graduate and software engineer — I build web and backend systems, explore cloud services, and enjoy learning new tools. I'm open to opportunities and collaborations.</p>
 
 <div align="center">
-  <h2>⭐ My Contributions ⭐</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navyabijoy&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+  <a href="https://navyabijoy.github.io/cv/">Portfolio / CV</a> •
+  <a href="mailto:navya@example.com">Email</a>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">GitHub Stats</h2>
+## ⚒️ Skills & Tools
 
 <div align="center">
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navyabijoy&show_icons=true&locale=en&layout=compact" alt="navyabijoy" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&locale=en" alt="navyabijoy" /></p>
-<p><img src="https://d3frb2mbny706b.cloudfront.net/navyabijoy" width="600"></p> -->
-<img src="https://d3frb2mbny706b.cloudfront.net/navyabijoy" width="600">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,aws,postman" alt="web+cloud"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,prisma,postgresql,firebase,supabase,mongodb,git,github,vercel" alt="backend+db"/>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=navyabijoy&label=Profile%20views&color=0e75b6&style=flat" alt="navyabijoy" /> </p>
+---
 
+## 🔭 Selected Projects
+
+- Portfolio / CV — https://navyabijoy.github.io/cv/ — Personal site showcasing my work and résumé.
+- (Add a short sentence per project with repo links here — I can auto-generate project summaries if you point to repos.)
+
+---
+
+## ⭐ GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navyabijoy&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity graph"/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&locale=en" alt="GitHub stats" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=navyabijoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
+</div>
+
+---
+
+## 📫 Contact
+
+- Portfolio: https://navyabijoy.github.io/cv/
+- Email: navya@example.com
+
+---
+
+Thanks for visiting — feel free to open an issue or PR on any project, or ping me if you'd like to collaborate!
