@@ -64,7 +64,6 @@ A real-time tool for facility siting decisions, built with FastAPI and WebSocket
 ## 🏆 Achievements
 
 - LeetCode Knight (1909), top 4% globally across 800k+ participants. Rank 63 in Weekly Contest 509.
-- Top 25 at Google DeepMind Bangalore Hackathon 2026, selected from 250 finalists out of 4,000+ applicants.
 - "Best Scalable Idea" at Hack Summit 5.0, among 200+ participants.
 - Academic Excellence Award: 10/10 SGPA in semesters III, V, and VIII. 3rd rank for academic performance at SRM.
 - AWS Cloud Foundations Certified and AWS Machine Learning Foundations Certified.
