@@ -16,7 +16,6 @@
 - Two internship rotations at Guidewire Software, shipping Java backend services for a production application with 5,000+ daily active users
 - Backend and platform engineering, with growing focus on AI agent infrastructure and self-healing systems
 - 10+ merged PRs across Aden (YC W20) and other open source ML projects
-- Top 25 at the Google DeepMind Bangalore Hackathon 2026 (from 4,000+ applicants)
 - LeetCode Knight (1909 rating, top 4% globally across 800k+ participants)
 - Based in Bengaluru, India, open to remote-first roles
 
