@@ -5,7 +5,6 @@
   <a href="https://navyabijoy.github.io/cv/">Portfolio</a> •
   <a href="mailto:navyabijoy14@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/navya-bijoy-883a35249">LinkedIn</a> •
-  <a href="https://leetcode.com/navyaaaa13">LeetCode</a>
 </div>
 
 <br>
