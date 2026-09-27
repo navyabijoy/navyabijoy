@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://navyabijoy.github.io/cv/">Portfolio</a> •
   <a href="mailto:navyabijoy14@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/navya-bijoy-883a35249">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/navya-bijoy-883a35249">LinkedIn</a>
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 - CS graduate from SRM Institute of Science and Technology, CGPA 9.83, class of 2026
 - Two internship rotations at Guidewire Software, shipping Java backend services for a production application with 5,000+ daily active users
 - Backend and platform engineering, with growing focus on AI agent infrastructure and inference engineering
-- 10+ merged PRs across NVIDIA, Aden (YC W20) and other open source ML projects
+- 30+ merged PRs across NVIDIA, Aden (YC W20) and other open source ML projects
 - LeetCode Knight (1909 rating, top 4% globally across 800k+ participants)
 - Based in Bengaluru, India, open to remote-first roles
 
@@ -71,15 +71,10 @@ A real-time tool for facility siting decisions, built with FastAPI and WebSocket
 
 ## ⭐ GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navyabijoy&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity graph"/>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=navyabijoy&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=navyabijoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </p>
-</div>
+<img
+  src="https://github-statspro.vercel.app/api/stats/navyabijoy"
+  alt="Stats Card"
+/>
 
 ---
 
