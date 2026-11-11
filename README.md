@@ -1,87 +1,63 @@
-<h1 align="center">Hi, I'm Navya </h1>
-<p align="center">Backend and infrastructure engineer, recent CS graduate (CGPA 9.83), building reliable systems and AI agent tooling. Interested in backend, SRE, and AI infra roles at fast moving product teams.</p>
+<h2 align="center">Navya Bijoy</h2>
 
-<div align="center">
-  <a href="https://navyabijoy.github.io/cv/">Portfolio</a> •
-  <a href="mailto:navyabijoy14@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/navya-bijoy-883a35249">LinkedIn</a>
-</div>
+<p align="center">
+  Software engineer building backend systems, infrastructure and developer tools.
+</p>
 
-<br>
+<p align="center">
+  <a href="https://navyabijoy.github.io/cv/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63B5?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/navya-bijoy-883a35249">
+    <img src="https://img.shields.io/badge/LinkedIn-3977A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:navyabijoy14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B72A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## About Me
+I'm a software engineer at **Airbus** and a CS graduate from SRM, based in Bengaluru. Previously, I worked on Java backend services at Guidewire for an application used by **5,000+ people daily**.
 
-- CS graduate from SRM Institute of Science and Technology, CGPA 9.83, class of 2026
-- Two internship rotations at Guidewire Software, shipping Java backend services for a production application with 5,000+ daily active users
-- Backend and platform engineering, with growing focus on AI agent infrastructure and inference engineering
-- 30+ merged PRs across NVIDIA, Aden (YC W20) and other open source ML projects
-- LeetCode Knight (1909 rating, top 4% globally across 800k+ participants)
-- Based in Bengaluru, India, open to remote-first roles
+I enjoy building reliable systems, contributing to open source and making code easier to understand.
 
----
+## Open source
 
-## ⚒️ Skills & Tools
+- **Canonical:** Fixed [12 failing charmlibs test cases](https://github.com/canonical/charmlibs/pull/783) caused by a snapd error-message change. Also have an [open Multipass PR](https://github.com/canonical/multipass/pull/5483) improving CLI test hooks.
+- **NVIDIA Cloud Functions:** Added [readiness stabilization](https://github.com/dsx-ai-factory/nvcf/pull/1417) with a fixed warmup deadline as a fallback.
+- **Aden Hive:** Integrated [7 Databricks tools](https://github.com/aden-hive/hive/pull/5428) into its MCP tooling and fixed a [concurrent session-cleanup issue](https://github.com/aden-hive/hive/pull/6081).
+- **Ghost Notes:** Maintain the project and have reviewed **20+ contributor PRs**, including work on [editor safety](https://github.com/navyabijoy/invisible-notes/pull/19#discussion_r3906892470) and [keyboard shortcuts](https://github.com/navyabijoy/invisible-notes/pull/18#discussion_r3906341511).
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp" alt="languages"/>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,tailwind" alt="backend+frontend"/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,prisma" alt="databases"/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,grafana,githubactions,postman" alt="cloud+devops"/>
-</div>
+## Selected projects
 
----
+**[Bellwether](https://bellwether.dev)** · Detects API contract changes that break TypeScript consumers, with failing tests and proposed patches.  
+![TypeScript](https://img.shields.io/badge/TypeScript-3977A8?style=flat-square&logo=typescript&logoColor=white)
 
-## 🔭 Selected Projects
+**[Gecko](https://github.com/navyabijoy/meta-hack)** · A prototype that turns bug recordings into reproducible Playwright tests and tests potential fixes before delivering them as pull requests.  
+![Python](https://img.shields.io/badge/Python-6C63B5?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-4E8B87?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-5C8C70?style=flat-square&logo=playwright&logoColor=white)
 
-**Foresight — ML-Driven Predictive Self-Healing Platform**
+**[Chaosline](https://github.com/navyabijoy/chaosline)** · A fault-injection CLI for testing AI agents against tool failures and checking for unintended side effects.  
+![TypeScript](https://img.shields.io/badge/TypeScript-3977A8?style=flat-square&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8B72A8?style=flat-square)
 
-Built a Kafka-streamed metrics pipeline feeding a PyTorch LSTM anomaly predictor that forecasts incidents 3-5 minutes ahead of a threshold breach, cutting MTTR from 5+ minutes to under 60 seconds. Tracked model versions and automated weekly retraining and drift detection with MLflow, with self-healing infra provisioned across 3 availability zones using Terraform-managed autoscaling (2 to 10 replicas).
-`FastAPI` `Next.js` `Python` `Kubernetes` `Prometheus` `Docker` `LSTM Neural Networks`
+**[Ghost Notes](https://github.com/navyabijoy/invisible-notes)** · A desktop notes app for macOS and Windows with translucent overlays and screen-capture protection.  
+![JavaScript](https://img.shields.io/badge/JavaScript-A68B45?style=flat-square&logo=javascript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-538D9B?style=flat-square&logo=electron&logoColor=white)
 
-**Fleet — Multi-Tenant Model Serving Gateway**
+**[Crumbs](https://github.com/navyabijoy/crumbs)** · An agent skill that creates a visual walkthrough of the code relevant to an issue.  
+![Python](https://img.shields.io/badge/Python-6C63B5?style=flat-square&logo=python&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-8B72A8?style=flat-square)
 
-Streamed inference requests through Kafka into a PyFlink job computing rolling per-tenant and per-model error and latency windows, served via Feast to drive live canary promote and rollback decisions. Nightly Evidently AI drift detection via Airflow flags degrading tenant-model pairs, while the gateway enforces Redis-backed rate limiting and PostgreSQL cost attribution across 10+ tenants on Kubernetes.
-`Go` `Apache Kafka` `PyFlink` `Feast` `Redis` `MLflow` `BentoML` `Airflow` `Evidently AI`
+## GitHub activity
 
-**CodeMap — Local-First Codebase Onboarding AI Agent**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyabijoy&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyabijoy&theme=github" alt="Navya's GitHub activity statistics" width="340" height="200">
+  </picture>
+</p>
 
-A local-first RAG pipeline that indexes repos into Supabase via pgvector, chunking by function and class boundaries and grounding Llama 3.2 answers in cited file and line context. Ships with a Clerk-gated chat interface for per-team repo access, with the vector database and LLM service containerized via Docker Compose for single-command deployment.
-`Next.js` `TypeScript` `FastAPI` `Python` `Ollama` `Llama 3.2` `Clerk` `Supabase`
-
-**Conduit — SaaS Integration Gateway**
-
-A Go based gateway for connecting to third-party SaaS APIs, with AES-256-GCM encrypted credential storage, automatic OpenAPI spec generation, and built-in Prometheus observability.
-`Go` `OpenAPI` `Prometheus`
-
-**Anchorpoint — Real-Time Geospatial Facility Siting Tool**
-
-A real-time tool for facility siting decisions, built with FastAPI and WebSockets. Runs a two-stage ETL pipeline and uses a SQLite coordinate cache for fast geospatial lookups.
-`Python` `FastAPI` `WebSockets` `SQLite`
-
----
-
-## 🏆 Achievements
-
-- LeetCode Knight (1909), top 4% globally across 800k+ participants. Rank 63 in Weekly Contest 509.
-- "Best Scalable Idea" at Hack Summit 5.0, among 200+ participants.
-- Academic Excellence Award: 10/10 SGPA in semesters III, V, and VIII. 3rd rank for academic performance at SRM.
-- AWS Cloud Foundations Certified and AWS Machine Learning Foundations Certified.
-
----
-
-## ⭐ GitHub Activity & Stats
-
-<img
-  src="https://github-statspro.vercel.app/api/stats/navyabijoy"
-  alt="Stats Card"
-/>
-
----
-
-## 📫 Contact
-
-- Portfolio: [Link](https://navyabijoy.github.io/cv/)
-- Email: navyabijoy14@gmail.com
-- LinkedIn: [Link](https://www.linkedin.com/in/navya-bijoy-883a35249)
-
-<p align="center">Open to backend, SRE, and AI infra roles or even hackathons ! Feel free to reach out or open a PR.</p>
+<p align="center">
+  Open to Hackathon & Opportunities  · Bengaluru, India
+</p>
