@@ -13,7 +13,7 @@
 </samp>
 </p>
 
-I'm a software engineer at **Airbus** and a CS graduate from SRM, based in Bengaluru. Previously, I worked on Java backend services at Guidewire for an application used by **5,000+ people daily**.
+I'm a software engineer at **Airbus** and a CS graduate from SRM, based in Bengaluru. Previously, worked on Java backend at Guidewire.
 
 I enjoy building reliable systems, contributing to open source and making code easier to understand.
 
