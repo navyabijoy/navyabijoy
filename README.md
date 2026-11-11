@@ -27,24 +27,17 @@ I enjoy building reliable systems, contributing to open source and making code e
 ## Selected projects
 
 **[Bellwether](https://bellwether.dev)** · Detects API contract changes that break TypeScript consumers, with failing tests and proposed patches.  
-![TypeScript](https://img.shields.io/badge/TypeScript-3977A8?style=flat-square&logo=typescript&logoColor=white)
 
 **[Gecko](https://github.com/navyabijoy/meta-hack)** · A prototype that turns bug recordings into reproducible Playwright tests and tests potential fixes before delivering them as pull requests.  
-![Python](https://img.shields.io/badge/Python-6C63B5?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4E8B87?style=flat-square&logo=fastapi&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-5C8C70?style=flat-square&logo=playwright&logoColor=white)
+
 
 **[Chaosline](https://github.com/navyabijoy/chaosline)** · A fault-injection CLI for testing AI agents against tool failures and checking for unintended side effects.  
-![TypeScript](https://img.shields.io/badge/TypeScript-3977A8?style=flat-square&logo=typescript&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-8B72A8?style=flat-square)
+
 
 **[Ghost Notes](https://github.com/navyabijoy/invisible-notes)** · A desktop notes app for macOS and Windows with translucent overlays and screen-capture protection.  
-![JavaScript](https://img.shields.io/badge/JavaScript-A68B45?style=flat-square&logo=javascript&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-538D9B?style=flat-square&logo=electron&logoColor=white)
 
 **[Crumbs](https://github.com/navyabijoy/crumbs)** · An agent skill that creates a visual walkthrough of the code relevant to an issue.  
-![Python](https://img.shields.io/badge/Python-6C63B5?style=flat-square&logo=python&logoColor=white)
-![Agent Skills](https://img.shields.io/badge/Agent_Skills-8B72A8?style=flat-square)
+
 
 ## GitHub activity
 
