@@ -5,15 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://navyabijoy.github.io/cv/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63B5?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/navya-bijoy-883a35249">
-    <img src="https://img.shields.io/badge/LinkedIn-3977A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:navyabijoy14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B72A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<samp>
+ <a href="https://navyabijoy.github.io/cv/">portfolio</a>
+/ <a href="https://x.com/navyabijoy">x</a>
+/ <a href="mailto:navyabijoy14@gmail.com">email</a>
+/ <a href="https://www.linkedin.com/in/navya-bijoy-883a35249/">linkedin</a> 
+</samp>
 </p>
 
 I'm a software engineer at **Airbus** and a CS graduate from SRM, based in Bengaluru. Previously, I worked on Java backend services at Guidewire for an application used by **5,000+ people daily**.
