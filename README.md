@@ -7,7 +7,6 @@
 <p align="center">
 <samp>
  <a href="https://navyabijoy.github.io/cv/">portfolio</a>
-/ <a href="https://x.com/navyabijoy">x</a>
 / <a href="mailto:navyabijoy14@gmail.com">email</a>
 / <a href="https://www.linkedin.com/in/navya-bijoy-883a35249/">linkedin</a> 
 </samp>
